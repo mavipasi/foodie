@@ -1,0 +1,2 @@
+# foodie
+Foodi is a web application that maps the food production and distribution across the globe. Aiming to show the current capacity and potential of countries to be self-sufficient in the provision of food for their populations for the future years. In adition, Foodi allows users to share and read stories behind food imports and exports of the each country based on FAOs World statistics. SO user friendly that even aliens can use it! 
